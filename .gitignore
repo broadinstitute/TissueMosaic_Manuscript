@@ -1,0 +1,8 @@
+
+
+**/TissueMosaic_data/**
+**/TissueMosaic_output/**
+**/*.pkl
+**/*.pickle
+**/pkls/**
+**/plots/**
