@@ -6,3 +6,6 @@
 **/*.pickle
 **/pkls/**
 **/plots/**
+**/model_checkpoints/**
+**/*.pt
+**/*.csv
