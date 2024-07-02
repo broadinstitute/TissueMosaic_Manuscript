@@ -2,7 +2,7 @@
 
 The TissueMosaic package can be installed from here: https://github.com/broadinstitute/TissueMosaic. 
 
-After cloning the repo, please create the expected subdirectories to hold intermediate output required to run the notebooks to generate the Figures. These intermediate files can be downloaded from a publicly available google bucket (see corresponding urls below). 
+After cloning the repo, please download and unzip the expected subdirectories which hold intermediate output required to run the notebooks to generate the figures. These subdirectories can be downloaded from a publicly available google bucket (see corresponding urls below). 
 
 * https://storage.googleapis.com/tissuemosaic_manuscript/pkls.tar.gz # pkls/
 * https://storage.googleapis.com/tissuemosaic_manuscript/benchmarking.tar.gz # benchmarking/
