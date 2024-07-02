@@ -4,6 +4,9 @@ The TissueMosaic package can be installed from here: https://github.com/broadins
 
 After cloning the repo, please create the expected subdirectories to hold intermediate output to run the notebooks to generate the Figures. The expected directory structure to run all the notebooks is as follows:
 
+## Directory structure
+
+```
 TissueMosaic_Manuscript/
 ├── pkls/ # Directory for intermediate files from long-running notebook steps 
 ├── benchmarking/ # Directory for benchmarking output
@@ -18,3 +21,4 @@ TissueMosaic_Manuscript/
 ├── TissueMosaic_data/  # Directory for TissueMosaic data
 │   ├── testis_anndata/
 │   └── thymus_anndata/
+```
