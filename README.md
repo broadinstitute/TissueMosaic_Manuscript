@@ -4,11 +4,13 @@ The TissueMosaic package can be installed from here: https://github.com/broadins
 
 After cloning the repo, please create the expected subdirectories to hold intermediate output required to run the notebooks to generate the Figures. These intermediate files can be downloaded from a publicly available google bucket (see corresponding urls below). 
 
+```
 * https://storage.googleapis.com/tissuemosaic_manuscript/pkls.tar.gz # pkls/
 * https://storage.googleapis.com/tissuemosaic_manuscript/benchmarking.tar.gz # benchmarking/
 * https://storage.googleapis.com/tissuemosaic_manuscript/model_checkpoints.tar.gz # model_checkpoints/
 * https://storage.googleapis.com/tissuemosaic_manuscript/TissueMosaic_output.tar.gz # TissueMosaic_output/
 * https://storage.googleapis.com/tissuemosaic_manuscript/TissueMosaic_data.tar.gz # TissueMosaic_data/
+```
 
 The expected directory structure to run all the notebooks is as follows:
 
